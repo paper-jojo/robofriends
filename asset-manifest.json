@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robofriends/static/css/main.5642c222.css",
+    "main.js": "/robofriends/static/js/main.dfd82dbd.js",
+    "static/media/TypefaceMarioWorld.ttf": "/robofriends/static/media/TypefaceMarioWorld.d6ebf36ce9a6e094dd8b.ttf",
+    "index.html": "/robofriends/index.html",
+    "main.5642c222.css.map": "/robofriends/static/css/main.5642c222.css.map",
+    "main.dfd82dbd.js.map": "/robofriends/static/js/main.dfd82dbd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5642c222.css",
+    "static/js/main.dfd82dbd.js"
+  ]
+}
